@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/owl.carousel.css">
   <link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/owl.theme.css">
   <link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/responsive.css">
+  <link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/style.css">
 
   <!-- Fonts icons -->
   <link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/font-awesome.min.css">
@@ -55,6 +56,7 @@
         
           </ul> -->
 
+          
 
           <?php wp_nav_menu( array(
                'theme_location' => 'main-menu',
